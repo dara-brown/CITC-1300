@@ -10,6 +10,7 @@ body {
     padding: 20px;
     border-radius: 20px;
 }
+
 header {
     text-align: center;
     padding: 50 px;
@@ -18,8 +19,14 @@ header {
 h1 {
     color:#730202;
     font-size: 50 px;
+    text-align: center;
 }
 h2{color:#730202;
+    text-align: center;
+}
+
+h3 {color: #730202;
+    text-align: center;
 }
 
 nav {
@@ -58,6 +65,7 @@ main img{
     width: 200px;
     border-radius: 20 px;
 }
+
 
 footer{ 
     padding: 40px 0;
