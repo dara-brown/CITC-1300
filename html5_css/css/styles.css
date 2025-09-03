@@ -13,12 +13,12 @@ body {
 
 header {
     text-align: center;
-    padding: 50 px 0;
+    padding: 50px 0;
 }
 
 h1 {
     color:#730202;
-    font-size: 50 px 0;
+    font-size: 50px 0;
     text-align: center;
 }
 h2{color:#730202;
@@ -63,7 +63,7 @@ main img{
     display:block;
     margin: 20px auto;
     width: 200px;
-    border-radius: 20 px 0;
+    border-radius: 20px 0;
 }
 
 
