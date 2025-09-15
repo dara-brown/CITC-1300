@@ -16,3 +16,9 @@ a {
 a:hover {
     text-decoration: none;
 }
+
+/* Mobile Styles */
+
+header {
+    background-image: url ("../images/andieandben.jpg";)
+}
