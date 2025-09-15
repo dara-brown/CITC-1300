@@ -53,7 +53,7 @@ nav li a {
 }
 
 nav li a:hover { 
-    background-color: #52591C;
+    background-color: #BF1120;
 }
 
 main { 
@@ -76,5 +76,60 @@ main {
 
 footer {
     padding: 40px;
-    text-align: center;
+    text-align: center; 
 }
+
+/* Tablet Styles */
+
+@media (min-width: 768px) {
+    nav {
+        padding: 10px 0;
+        margin-top: 10px;
+        border-bottom: 4px solid #BF1120 ;
+    }
+
+    nav li {
+        display: inline;
+    }
+
+    nav li a {
+        display: inline-block;
+        width: 150px;
+        height: 40px;
+    }
+main {
+    margin-top: 10px;
+}
+ .col img {
+    width: 50%
+ }
+}
+
+/* Desktop Styles */
+@media (min-width:1024px) {
+
+#container {
+    width: 65%;
+    margin: 20px auto;
+    background-color: #52591C;
+}
+}
+
+.gallery{
+    display: flex;
+}
+
+.col {
+    border: 2px solid #52591C;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.col_img { 
+    width: 100%;
+}
+
+
+
+
