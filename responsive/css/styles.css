@@ -113,7 +113,7 @@ main {
     margin: 20px auto;
     background-color: #52591C;
 }
-}
+
 
 .gallery{
     display: flex;
@@ -139,8 +139,15 @@ main {
 .multi_col {
     display: flex;
 }
-
-section, aside {
+section {
+    width: 70%;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+aside {
+    display: block;
+    width: 30%;
     margin: 10px;
     padding: 10px;
     border-radius: 10px;
@@ -172,4 +179,4 @@ h3 {
     text-shadow:2px 2px 2px black;
 }
 
-
+}
