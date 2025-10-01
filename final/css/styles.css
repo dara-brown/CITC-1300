@@ -278,11 +278,4 @@ header {
     background-repeat: no-repeat; 
     }
 
-.markdown-body li {
-    overflow-wrap: anywhere;
-}
 
-.markdown-body pre code, 
-markdown-body pre tt {
-    max-width: 100%;
-}
