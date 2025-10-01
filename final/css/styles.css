@@ -102,9 +102,10 @@ a:hover{
     -ms-flex: 100%;
     flex: 100%;
     max-width: 100%;
+
 }
 
-.youtube_style {
+.youtube_styles{
     width: auto;
     border-radius: 10px;
     border: 2px solid #8F854F;
